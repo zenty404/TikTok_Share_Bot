@@ -1,4 +1,5 @@
-# TikTok_Share_Bot
-Give Share on TikTok
+# TikTokShareBot-SpiritOfStalker
+Bot de partage illimiter EASY a utiliser
 
-$ pip install 
+TERMUX:
+python ShareBot.py
