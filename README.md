@@ -1,4 +1,4 @@
-# TikTokShareBot-Zenty
+# TikTokShareBot-Zenty [PATCH]
 Share bot unlimiter EASY to use
  # How to use ?
 Linux, Windows, Macos
